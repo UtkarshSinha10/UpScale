@@ -95,3 +95,4 @@ At 2nd time frame:
 {1, 0, 0, 2, 2}
 ...
 The 1 at the bottom left corner of the matrix is never rotten.
+
